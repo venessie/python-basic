@@ -6,7 +6,7 @@ print("Explorer")
 
 print("print.py")
 
-name = "Falie"
+name = "Calie"
 age = 1
 
 print("Name is:", name + "Age is:",age)
